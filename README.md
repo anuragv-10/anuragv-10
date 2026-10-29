@@ -251,7 +251,7 @@ Worked on OCR and image processing for financial document digitization.
 
 ## 📫 Let's Connect
 
-<p align="center">
+<p align="left">
 
 <a href="https://linkedin.com/in/anuraga-chandan-vetsa-50430731a">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
